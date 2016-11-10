@@ -1,0 +1,8 @@
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\play.exe.config
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\play.exe
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\play.pdb
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\obj\Debug\play.exe
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\obj\Debug\play.pdb
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\obj\Debug\play.csprojResolveAssemblyReference.cache
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\NAudio.dll
+D:\Moje\Documents\Visual Studio 2015\Projects\play\play\bin\Debug\NAudio.xml
