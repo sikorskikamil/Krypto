@@ -1,0 +1,6 @@
+D:\Moje\Documents\Visual Studio 2015\Projects\Kryptografia\Kryptografia\bin\Release\Kryptografia.exe.config
+D:\Moje\Documents\Visual Studio 2015\Projects\Kryptografia\Kryptografia\bin\Release\Kryptografia.exe
+D:\Moje\Documents\Visual Studio 2015\Projects\Kryptografia\Kryptografia\bin\Release\Kryptografia.pdb
+D:\Moje\Documents\Visual Studio 2015\Projects\Kryptografia\Kryptografia\bin\Release\BouncyCastle.Crypto.dll
+D:\Moje\Documents\Visual Studio 2015\Projects\Kryptografia\Kryptografia\obj\Release\Kryptografia.exe
+D:\Moje\Documents\Visual Studio 2015\Projects\Kryptografia\Kryptografia\obj\Release\Kryptografia.pdb
