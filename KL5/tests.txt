@@ -1,0 +1,58 @@
+PS D:\xampp\apache\bin> ./abs -k -c 350 -n 2000 https://kamazkrypto.pl/
+This is ApacheBench, Version 2.3 <$Revision: 1748469 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking kamazkrypto.pl (be patient)
+Completed 200 requests
+Completed 400 requests
+Completed 600 requests
+Completed 800 requests
+Completed 1000 requests
+Completed 1200 requests
+Completed 1400 requests
+Completed 1600 requests
+Completed 1800 requests
+Completed 2000 requests
+Finished 2000 requests
+
+
+Server Software:        Apache/2.4.23
+Server Hostname:        kamazkrypto.pl
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
+
+Document Path:          /
+Document Length:        1731 bytes
+
+Concurrency Level:      350
+Time taken for tests:   1.638 seconds
+Complete requests:      2000
+Failed requests:        0
+Non-2xx responses:      2000
+Keep-Alive requests:    2000
+Total transferred:      4422149 bytes
+HTML transferred:       3462000 bytes
+Requests per second:    1221.15 [#/sec] (mean)
+Time per request:       286.614 [ms] (mean)
+Time per request:       0.819 [ms] (mean, across all concurrent requests)
+Transfer rate:          2636.78 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0   26  93.3      0     421
+Processing:     8   34  32.0     29     955
+Waiting:        3   22  29.6     19     954
+Total:          8   60 104.2     29     955
+
+Percentage of the requests served within a certain time (ms)
+  50%     29
+  66%     36
+  75%     40
+  80%     41
+  90%     51
+  95%    417
+  98%    420
+  99%    420
+ 100%    955 (longest request)
+PS D:\xampp\apache\bin>
